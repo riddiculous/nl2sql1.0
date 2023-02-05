@@ -1,0 +1,1486 @@
+[
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "320kV直流线路名称、输电平均值及其终点厂站最高电压等级",
+    "sql": {},
+    "question_id": "qid000001"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "全国有多少个电网",
+    "sql": {},
+    "question_id": "qid000002"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查看型号为LDRE-Φ250/230的所有母线名称和投运日期？",
+    "sql": {},
+    "question_id": "qid000003"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "统计设备型号为ODFS-400000/500的变压器数量",
+    "sql": {},
+    "question_id": "qid000004"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "华北电网有哪些换流站属于多端直流输电系统",
+    "sql": {},
+    "question_id": "qid000005"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询符合1000kv以下的从属于省调发电厂的类型",
+    "sql": {},
+    "question_id": "qid000006"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "从属于浙江省调的火电厂中，电压等级的最大最小值是什么",
+    "sql": {},
+    "question_id": "qid000007"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "100kV及以下的从属于华北分中心的发电厂类型分别是什么",
+    "sql": {},
+    "question_id": "qid000008"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询有几个个机构类别为国调的机构",
+    "sql": {},
+    "question_id": "qid000009"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询京阳的所属公司",
+    "sql": {},
+    "question_id": "qid000010"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "2021年5月的积分电量大于10000的端点有哪些",
+    "sql": {},
+    "question_id": "qid000011"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "吉泉直流极Ⅱ线所在的资产单位简称",
+    "sql": {},
+    "question_id": "qid000012"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询绕组电抗的最小值",
+    "sql": {},
+    "question_id": "qid000013"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "2018年投运的交流线路名及其终点厂站最高电压等级",
+    "sql": {},
+    "question_id": "qid000014"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询金榆路电厂的所属公司",
+    "sql": {},
+    "question_id": "qid000015"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "果柴线端点所属线路的调度机构通信地址",
+    "sql": {},
+    "question_id": "qid000016"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询快堆接入电网的公司类型有哪些",
+    "sql": {},
+    "question_id": "qid000017"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "描述一下龙政直流极Ⅰ线路的基本信息？",
+    "sql": {},
+    "question_id": "qid000018"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查一下电网中统计类型为调度口径抽蓄的上报电量值的平均值是多少",
+    "sql": {},
+    "question_id": "qid000019"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查看西藏电网电网等级是多少",
+    "sql": {},
+    "question_id": "qid000020"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "通朝线对应的开始杆塔什么？",
+    "sql": {},
+    "question_id": "qid000021"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询锡盟站2020-01-02日无功功率平均值",
+    "sql": {},
+    "question_id": "qid000022"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询海西变750kV#1主变-高绕组的分接头最高档位",
+    "sql": {},
+    "question_id": "qid000023"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查看华中电网下级有哪些",
+    "sql": {},
+    "question_id": "qid000024"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "2020年投运的起点厂站最高电压等级320kV的直流线路有哪些",
+    "sql": {},
+    "question_id": "qid000025"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "朝阳门的110kV交流线路名称、输电最小值及其起点厂站",
+    "sql": {},
+    "question_id": "qid000026"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "320kV直流线路名称、日输电积分电量及其终点厂站厂站类型",
+    "sql": {},
+    "question_id": "qid000027"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "山西运城电网调度口径受电的积分电量是多少",
+    "sql": {},
+    "question_id": "qid000028"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "机构类别为国调的机构有哪几个",
+    "sql": {},
+    "question_id": "qid000029"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询1000kv以上的发电厂类型为水电的机构的所属公司",
+    "sql": {},
+    "question_id": "qid000030"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "在运的交流线路名、月输电积分电量及其起点厂站最高电压等级",
+    "sql": {},
+    "question_id": "qid000031"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "葛南直流特征值网侧有功的最小值时间是",
+    "sql": {},
+    "question_id": "qid000032"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "统计ZF16-550型号的主母线类型的母线数量",
+    "sql": {},
+    "question_id": "qid000033"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "有多少直流输电系统是背靠背形式",
+    "sql": {},
+    "question_id": "qid000034"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查一下天津在2020年12月的电网的上报电量值",
+    "sql": {},
+    "question_id": "qid000035"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "2018年投运的终点厂站最高电压等级220kV的交流线路有哪些",
+    "sql": {},
+    "question_id": "qid000036"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询接入北京电网的水电厂中，最晚投运的发电机名称",
+    "sql": {},
+    "question_id": "qid000037"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询电网中统计类型为调度口径抽蓄的积分电量值的最小值",
+    "sql": {},
+    "question_id": "qid000038"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询周井变下主变的平均额定容量",
+    "sql": {},
+    "question_id": "qid000039"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "2021年1月各电网调度口径其他发电的上报电量值为多少",
+    "sql": {},
+    "question_id": "qid000040"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "锦苏直流的许可机构是什么",
+    "sql": {},
+    "question_id": "qid000041"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "220kV中山站车中线端点2021年正向有功电量是多少？",
+    "sql": {},
+    "question_id": "qid000042"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "220kV交流线路名称、输电积分电量及其终点厂站最高电压等级",
+    "sql": {},
+    "question_id": "qid000043"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "展示2020年5月，北京电网的上报电量值",
+    "sql": {},
+    "question_id": "qid000044"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "在运的直流线路名及其终点杆塔类型",
+    "sql": {},
+    "question_id": "qid000045"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询盱眙站2020年1月无功功率的平均值的最小值",
+    "sql": {},
+    "question_id": "qid000046"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "2020年10月26日直流输电系统积分电量值最低的是哪个系统？",
+    "sql": {},
+    "question_id": "qid000047"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "展示2020年12月，浙江电网的上报电量值",
+    "sql": {},
+    "question_id": "qid000048"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "2021年5月的正向有功电量最大的端点是哪个",
+    "sql": {},
+    "question_id": "qid000049"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "从属于华北分中心的火电厂有哪些",
+    "sql": {},
+    "question_id": "qid000050"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查看天津电网下级电网",
+    "sql": {},
+    "question_id": "qid000051"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "展示2020年1月，北京电网的上报电量值",
+    "sql": {},
+    "question_id": "qid000052"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "机构类别为分中心的机构有多少个",
+    "sql": {},
+    "question_id": "qid000053"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询鱼卡变的变电站类型",
+    "sql": {},
+    "question_id": "qid000054"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "在运的直流线路名、输电最大值及其终点厂站最高电压等级",
+    "sql": {},
+    "question_id": "qid000055"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询华潞的资产单位",
+    "sql": {},
+    "question_id": "qid000056"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "统计一下从属于华中分中心的火电厂中的发电机个数",
+    "sql": {},
+    "question_id": "qid000057"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "2018年投运的终点厂站为火电类型的直流线路有哪些",
+    "sql": {},
+    "question_id": "qid000058"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "1000kv以上的发电厂级别为省调的邮政编码有哪些",
+    "sql": {},
+    "question_id": "qid000059"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "德宝直流特征值量测类型是负荷有功的最小值是多少",
+    "sql": {},
+    "question_id": "qid000060"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "华中分中心的水电站有几个？",
+    "sql": {},
+    "question_id": "qid000061"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "华北分中心管理多少直流输电系统",
+    "sql": {},
+    "question_id": "qid000062"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "终点杆塔在北京的在运的交流线路有哪些",
+    "sql": {},
+    "question_id": "qid000063"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "220kV交流线路名称、输电平均值及其调度机构信息名",
+    "sql": {},
+    "question_id": "qid000064"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "在运的交流线路名、日输电积分电量及其终点厂站最高电压等级",
+    "sql": {},
+    "question_id": "qid000065"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "终点杆塔在北京的在运的交流线路有多少",
+    "sql": {},
+    "question_id": "qid000066"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询华能热电电厂的联系传真",
+    "sql": {},
+    "question_id": "qid000067"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "在运的直流线路名、输电最小值及其终点厂站最高电压等级",
+    "sql": {},
+    "question_id": "qid000068"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "果柴线端点所属线路的调度机构通信值班电话",
+    "sql": {},
+    "question_id": "qid000069"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "线路长度排名前十的110kV交流线路名称、输电平均值及其起点厂站厂站类型",
+    "sql": {},
+    "question_id": "qid000070"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "西南电网除了西藏电网还有哪些电网",
+    "sql": {},
+    "question_id": "qid000071"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "直流输电系统的平均输电距离是多少",
+    "sql": {},
+    "question_id": "qid000072"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "江苏电网属于哪个区域电网",
+    "sql": {},
+    "question_id": "qid000073"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "2020年10月25日宜都换流站送出积分电量是多少",
+    "sql": {},
+    "question_id": "qid000074"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "奉贤换流站的直流电压等级是多少？",
+    "sql": {},
+    "question_id": "qid000075"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "龙政直流特征值量测类型是有功功率的最小值时间是",
+    "sql": {},
+    "question_id": "qid000076"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "统计晚于2019年1月1日投运的主变数量",
+    "sql": {},
+    "question_id": "qid000077"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询芜湖站2020-01月无功功率的最大值的最小值",
+    "sql": {},
+    "question_id": "qid000078"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询南宫电厂的所属公司",
+    "sql": {},
+    "question_id": "qid000079"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "电网基本信息有多少级别",
+    "sql": {},
+    "question_id": "qid000080"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "2020年北京投运的火电发电机有多少",
+    "sql": {},
+    "question_id": "qid000081"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "展示2020年10月，北京电网的上报电量值",
+    "sql": {},
+    "question_id": "qid000082"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询郑常庄的所属公司",
+    "sql": {},
+    "question_id": "qid000083"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "统计2009年1月1日前投运生效的所有母线数量",
+    "sql": {},
+    "question_id": "qid000084"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "圩淮I线所在调度机构及其级别",
+    "sql": {},
+    "question_id": "qid000085"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "320kV直流线路名称、输电最大值及其终点厂站最高电压等级",
+    "sql": {},
+    "question_id": "qid000086"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询向阳变下#1变的投运时间",
+    "sql": {},
+    "question_id": "qid000087"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询淮南站2020-01月有功功率的最大值的最大时间",
+    "sql": {},
+    "question_id": "qid000088"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "1000kv以上的发电厂类型为水电的机构的所属公司有哪些",
+    "sql": {},
+    "question_id": "qid000089"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "花园电厂的简称叫什么",
+    "sql": {},
+    "question_id": "qid000090"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询密云电厂电厂的所属公司",
+    "sql": {},
+    "question_id": "qid000091"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查一下天津在2020年12月的电网的积分电量",
+    "sql": {},
+    "question_id": "qid000092"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "枫白4DQ3线端点的生效时间",
+    "sql": {},
+    "question_id": "qid000093"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "220kV交流线路名称、输电最大值及其终点厂站",
+    "sql": {},
+    "question_id": "qid000094"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "河南电网交流电压等级大于220千伏的在运状态的换流站有哪些",
+    "sql": {},
+    "question_id": "qid000095"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "金苏北线端点所属线路的终点杆塔的失效时间",
+    "sql": {},
+    "question_id": "qid000096"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "从属于华中分中心的水电厂中，电压等级的最大值，最小值分别是什么",
+    "sql": {},
+    "question_id": "qid000097"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "山西晋中电网调度口径火电的积分电量是多少",
+    "sql": {},
+    "question_id": "qid000098"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "陕西省的终端杆塔有哪些？",
+    "sql": {},
+    "question_id": "qid000099"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "金苏北线端点所属线路的起点杆塔的初始线路名称",
+    "sql": {},
+    "question_id": "qid000100"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "统计电压等级大于30kv的主母线数量",
+    "sql": {},
+    "question_id": "qid000101"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "线路长度排名前十的在运的直流线路名、输电积分电量及其终点厂站最高电压等级",
+    "sql": {},
+    "question_id": "qid000102"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询机构类别为省级的机构有多少个",
+    "sql": {},
+    "question_id": "qid000103"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询京安的电子邮箱",
+    "sql": {},
+    "question_id": "qid000104"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "2018年投运的直流线路名及其终点厂站最高电压等级",
+    "sql": {},
+    "question_id": "qid000105"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "2021年1月各电网调度口径抽蓄的积分电量为多少",
+    "sql": {},
+    "question_id": "qid000106"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "额定容量低于220MVA的变压器有多少个？",
+    "sql": {},
+    "question_id": "qid000107"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "国家电网最早投运火力发电厂是什么时候？",
+    "sql": {},
+    "question_id": "qid000108"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询绕组电抗的平均值",
+    "sql": {},
+    "question_id": "qid000109"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "谁是快堆接入电网的经营者是",
+    "sql": {},
+    "question_id": "qid000110"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "快堆接入电网的电网id是什么",
+    "sql": {},
+    "question_id": "qid000111"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "陕西有多少个三绕组变压器",
+    "sql": {},
+    "question_id": "qid000112"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "统计一下最高电压等级为600kV及以上的发电厂总数",
+    "sql": {},
+    "question_id": "qid000113"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "统计一下最高电压等级为1000kV及以上的发电厂总数",
+    "sql": {},
+    "question_id": "qid000114"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询东吴站2020-01月有功功率的积分电量的最大值",
+    "sql": {},
+    "question_id": "qid000115"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "展示2020年10月，北京电网的积分电量",
+    "sql": {},
+    "question_id": "qid000116"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "2020年投运的长度大于300且起点厂站最高电压等级320kV的架空直流线路有哪些",
+    "sql": {},
+    "question_id": "qid000117"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "北京市调的320kV直流线路名称、输电最大值及其调度机构信息名",
+    "sql": {},
+    "question_id": "qid000118"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "在运的直流线路名及其起点厂站最高电压等级",
+    "sql": {},
+    "question_id": "qid000119"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询斗笠站中1母线的退役日期",
+    "sql": {},
+    "question_id": "qid000120"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "统计一下从属于西南分中心的火电厂中的发电机个数",
+    "sql": {},
+    "question_id": "qid000121"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "展示2020年2月，浙江电网的上报电量值",
+    "sql": {},
+    "question_id": "qid000122"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询有多少个机构类别为省级的机构",
+    "sql": {},
+    "question_id": "qid000123"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "统计云岭站下的主母线数量",
+    "sql": {},
+    "question_id": "qid000124"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "江苏有多少个换流站",
+    "sql": {},
+    "question_id": "qid000125"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "220kV交流线路名称、月输电积分电量及其起点厂站厂站类型",
+    "sql": {},
+    "question_id": "qid000126"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询榕城站2020-01月无功功率的积分电量的最大值",
+    "sql": {},
+    "question_id": "qid000127"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询德青源电厂的所属公司",
+    "sql": {},
+    "question_id": "qid000128"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询莲都站2020-01月无功功率的最大值的汇总值",
+    "sql": {},
+    "question_id": "qid000129"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询接入东北电网的发电厂中，水冷类型的设备的是否增容",
+    "sql": {},
+    "question_id": "qid000130"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询接入河北电网的火电厂中，最早投运的发电机名称",
+    "sql": {},
+    "question_id": "qid000131"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询ZF16-550型号的母线运行状态",
+    "sql": {},
+    "question_id": "qid000132"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "朝阳门的110kV直流线路名称、输电积分电量及其起点厂站厂站类型",
+    "sql": {},
+    "question_id": "qid000133"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "北京市调的320kV直流线路名称、输电积分电量及其调度机构信息名",
+    "sql": {},
+    "question_id": "qid000134"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查看遂宁电网的全称",
+    "sql": {},
+    "question_id": "qid000135"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "最长的直流输电系统是",
+    "sql": {},
+    "question_id": "qid000136"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "浙江电网有多少交流电压等级大于220千伏的在运换流站",
+    "sql": {},
+    "question_id": "qid000137"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "伊敏换流站2020年06月11日正向有功电量的值是",
+    "sql": {},
+    "question_id": "qid000138"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "2018年投运的长度大于10且终点杆塔类型为耐张杆塔的直流线路有多少",
+    "sql": {},
+    "question_id": "qid000139"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询有哪些1000kv以上的发电厂类型为水电的机构",
+    "sql": {},
+    "question_id": "qid000140"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "2020年12月31日的反向有功电量大于1000的端点有哪些",
+    "sql": {},
+    "question_id": "qid000141"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "迁西电网的全称是什么",
+    "sql": {},
+    "question_id": "qid000142"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "有多少电网是江西电网下级",
+    "sql": {},
+    "question_id": "qid000143"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "果柴线端点所属线路的监控机构自动化值班电话",
+    "sql": {},
+    "question_id": "qid000144"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询快堆接入电网的id",
+    "sql": {},
+    "question_id": "qid000145"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "资海二线线端2021年5月的反向有功积分电量",
+    "sql": {},
+    "question_id": "qid000146"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "搜索1000kv以上的省调的发电厂的邮政编码",
+    "sql": {},
+    "question_id": "qid000147"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "龙政直流极Ⅰ线路的线路全长是多少？",
+    "sql": {},
+    "question_id": "qid000148"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "枫白4DQ7线端点的所属线路的生效日期",
+    "sql": {},
+    "question_id": "qid000149"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "2020年12月31日的正向有功电量大于10000的端点有多少",
+    "sql": {},
+    "question_id": "qid000150"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "天津城南电网的电网级别是什么",
+    "sql": {},
+    "question_id": "qid000151"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "2020年宝鸡换流站的最大反向有功电量是多少",
+    "sql": {},
+    "question_id": "qid000152"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "天津电网油侵式变压器数量？",
+    "sql": {},
+    "question_id": "qid000153"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询兰江站2020-01月有功功率的最大值的最小时间",
+    "sql": {},
+    "question_id": "qid000154"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "华北电网多端直流输电系统共有多少换流站",
+    "sql": {},
+    "question_id": "qid000155"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询所有电网的统计类型为调度口径抽蓄的上报电量值",
+    "sql": {},
+    "question_id": "qid000156"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询莆田变电站下所有母线的最高电压等级是多少？",
+    "sql": {},
+    "question_id": "qid000157"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "有哪些换流站属于是国家电网直管的特高压直流输电系统",
+    "sql": {},
+    "question_id": "qid000158"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "320kV直流线路名称、输电最小值及其终点厂站最高电压等级",
+    "sql": {},
+    "question_id": "qid000159"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "东北电网的直流输电系统的平均输电距离是",
+    "sql": {},
+    "question_id": "qid000160"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "输电距离最长的直流输电系统是，长度是多少",
+    "sql": {},
+    "question_id": "qid000161"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "在运的直流线路名、输电积分电量及其终点厂站最高电压等级",
+    "sql": {},
+    "question_id": "qid000162"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "220kV交流线路名称、月输电积分电量及其终点厂站",
+    "sql": {},
+    "question_id": "qid000163"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询接入东北电网的发电厂中，水冷类型的设备的并入电网电压等级",
+    "sql": {},
+    "question_id": "qid000164"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "2020年12月31日的正向无功电量最大的端点是哪个",
+    "sql": {},
+    "question_id": "qid000165"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "有多少额定容量小于220MVA的变压器？",
+    "sql": {},
+    "question_id": "qid000166"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "锦苏直流的电压等级是什么",
+    "sql": {},
+    "question_id": "qid000167"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "线路长度排名前十的320kV直流线路名称、输电最小值及其调度机构信息名",
+    "sql": {},
+    "question_id": "qid000168"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询德青源的电子邮箱",
+    "sql": {},
+    "question_id": "qid000169"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "展示2020年7月，天津电网的上报电量值",
+    "sql": {},
+    "question_id": "qid000170"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "2020年12月31日的反向有功积分电量最大的端点是哪个",
+    "sql": {},
+    "question_id": "qid000171"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查看济南电网上级电网",
+    "sql": {},
+    "question_id": "qid000172"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询锡盟站2020-01-02日有功功率平均值",
+    "sql": {},
+    "question_id": "qid000173"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询接入东北电网的发电厂中，水冷类型的设备的电源类型",
+    "sql": {},
+    "question_id": "qid000174"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "2018年投运的终点厂站最高电压等级320kV的架空直流线路有哪些",
+    "sql": {},
+    "question_id": "qid000175"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "统计一下从属于西北分中心的火电厂中的发电机个数",
+    "sql": {},
+    "question_id": "qid000176"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "果柴线端点所属线路的调度机构邮箱地址",
+    "sql": {},
+    "question_id": "qid000177"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询谁是快堆接入电网的经营者",
+    "sql": {},
+    "question_id": "qid000178"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "有多少换流站在运",
+    "sql": {},
+    "question_id": "qid000179"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "320kV直流线路名称、日输电积分电量及其终点厂站",
+    "sql": {},
+    "question_id": "qid000180"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询的鹿鸣山联系传真",
+    "sql": {},
+    "question_id": "qid000181"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "线路长度排名前十的220kV交流线路名称、输电最小值及其终点厂站最高电压等级",
+    "sql": {},
+    "question_id": "qid000182"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询快堆接入电网的机构简称叫什么",
+    "sql": {},
+    "question_id": "qid000183"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "起点厂站为火电类型的直流线路有哪些",
+    "sql": {},
+    "question_id": "qid000184"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "规划中的换流站哪些是归属国家电网背靠背式的直流输电系统",
+    "sql": {},
+    "question_id": "qid000185"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "果柴线端点所属线路的调度机构自动化值班电话",
+    "sql": {},
+    "question_id": "qid000186"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "2021年5月的积分电量最大的端点是哪个",
+    "sql": {},
+    "question_id": "qid000187"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "统计青海省下类型为开关站的变电站数量",
+    "sql": {},
+    "question_id": "qid000188"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "分类是特高压的有哪些直流",
+    "sql": {},
+    "question_id": "qid000189"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "展示2020年6月，天津电网的积分电量",
+    "sql": {},
+    "question_id": "qid000190"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "500kv以上的发电厂类型为火电的机构有哪些",
+    "sql": {},
+    "question_id": "qid000191"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "有多少个有载调压方式的变电器？",
+    "sql": {},
+    "question_id": "qid000192"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "线路长度排名前十的在运的直流线路名、输电积分电量及其起点厂站最高电压等级",
+    "sql": {},
+    "question_id": "qid000193"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "起点厂站为火电且在运的的交流线路有哪些",
+    "sql": {},
+    "question_id": "qid000194"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "110kV交流线路名称、输电积分电量及其起点厂站厂站类型",
+    "sql": {},
+    "question_id": "qid000195"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "现在特高压直流输电系统有多少",
+    "sql": {},
+    "question_id": "qid000196"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "2021年5月的积分电量大于10000的端点有多少",
+    "sql": {},
+    "question_id": "qid000197"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询高井电厂的所属公司",
+    "sql": {},
+    "question_id": "qid000198"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "北京市调的220kV交流线路名称、输电最小值及其调度机构信息名",
+    "sql": {},
+    "question_id": "qid000199"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "展示2020年11月，北京电网的上报电量值",
+    "sql": {},
+    "question_id": "qid000200"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "华中电网除了湖北电网还有哪些",
+    "sql": {},
+    "question_id": "qid000201"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "宜华直流特征值输电功率的平均值是",
+    "sql": {},
+    "question_id": "qid000202"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "线路长度排名前十的220kV交流线路名称、输电最大值及其终点厂站",
+    "sql": {},
+    "question_id": "qid000203"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "三峡右岸厂的电子邮箱是多少？",
+    "sql": {},
+    "question_id": "qid000204"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "输电距离最长的直流输电系统是",
+    "sql": {},
+    "question_id": "qid000205"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "查询长治站站2020-01-02日无功功率最大值时间",
+    "sql": {},
+    "question_id": "qid000206"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "2020年宝鸡换流站的最大受入积分电量是多少",
+    "sql": {},
+    "question_id": "qid000207"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "输电距离最长的直流输电系统属于哪个电网",
+    "sql": {},
+    "question_id": "qid000208"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "统计周井变下油浸式变压器的数量",
+    "sql": {},
+    "question_id": "qid000209"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "统计国网四川省电力公司拥有多少变电站",
+    "sql": {},
+    "question_id": "qid000210"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "500kV直流线路名称及其终点杆塔名",
+    "sql": {},
+    "question_id": "qid000211"
+  },
+  {
+    "query": "",
+    "db_id": "AI_SEARCH",
+    "question": "2018年投运的长度大于300终点厂站为火电类型的交流线路有哪些",
+    "sql": {},
+    "question_id": "qid000212"
+  }
+]
