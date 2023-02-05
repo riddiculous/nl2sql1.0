@@ -4,9 +4,9 @@ linux GPU服务器，CUDA>=10.2
 安装过docker和nvidia-docker
 ## 运行步骤
 1. 从百度网盘下载docker镜像压缩包`nl2sql_test.tar`和测试集文件样例`test.json`。  
-​```
+```
 www.pan.baidu.com
-​```
+```
 2. 将`nl2sql_test.tar`和`test.json`上传至本地服务器。
 3. 进入`nl2sql_test.tar`所在目录，在终端执行以下命令。 
 ```docker
