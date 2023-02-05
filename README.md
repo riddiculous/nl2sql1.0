@@ -10,7 +10,7 @@ https://pan.baidu.com/s/1DzMEAfUzjqQZVs5FzjpPUA?pwd=z8ig
 2. 将`nl2sql_test.tar`和`test.json`上传至本地服务器。
 3. 进入`nl2sql_test.tar`所在目录，在终端执行以下命令。 
 ```docker
-#导出镜像
+#导出镜像，由于镜像文件较大，需要等待较长时间
 docker load --input nl2sql_test.tar
 ```  
 ```docker
